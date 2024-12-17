@@ -120,6 +120,7 @@
         }
 
         .container {
+            position: relative; /* Définit un conteneur de référence pour les positions absolues */
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -135,14 +136,16 @@
         }
 
         .image-right {
-            width: 30%;
+            position: absolute; /* Permet de positionner l'image par rapport à la page */
+            top: 1%; /* Place l'image en haut */
+            right: 0; /* Place l'image à droite */
+            width: 30%; /* Taille de l'image */
         }
 
         .image-right img {
             max-width: 100%;
             height: auto;
             display: block;
-            margin-left: auto; /* Aligne l'image à droite */
             border-radius: 15px;
         }
     </style>
@@ -226,7 +229,7 @@
                 <br> <img src="iconappli/exchange.png" width="40px"> Microsoft Exchange, pour gérer l'accès aux boîtes mail des Agences.
                 <br> <img src="iconappli/logmein.png" width="40px"> LogMeIn, pour le contrôle à distance aux postes Adecco.
                 <br> <img src="iconappli/fuze.png" width="40px"> Fuze, permet de prendre des appels avec les clients (Softphone).
-                <br> <img src="iconappli/wallix.png" width="40px"> Bastion, permet l'accès aux VM d'Adeccon pour la gestion des comptes/ordinateurs.
+                <br> <img src="iconappli/wallix.png" width="40px"> Bastion, permet l'accès aux VM d'Adecco pour la gestion des comptes/ordinateurs.
                 <br><h2 align="left">Activation de poste :</h2>
                 <br> <img src="Altimance/Capture d'écran 2024-03-25 101400.png" width="515px">
                 <img src="Altimance/Capture d'écran 2024-03-25 101421.png" width="450px">
@@ -239,8 +242,8 @@
                 <br><h2 align="left">Installation de logiciel sur un poste :</h2>
                 <br> <img src="installlogicielalti/Capture d'écran 2024-03-29 120133.png" width="488px">
                 <img src="installlogicielalti/Capture d'écran 2024-03-29 141947.png" width="600px">
-                <img src="installlogicielalti/Capture d'écran 2024-03-29 143026.png" width="405px">
-                <img src="installlogicielalti/Capture d'écran 2024-03-29 143104.png" width="350px">
+                <img src="installlogicielalti/Capture d'écran 2024-03-29 143026.png" width="470px">
+                <img src="installlogicielalti/Capture d'écran 2024-03-29 143104.png" width="550px">
             </p>           
         </p>
     </div>
