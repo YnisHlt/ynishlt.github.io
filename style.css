@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+    opacity: 0;
+    animation: fadeIn 2s forwards; /* Animation sur 2 secondes */
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.altimanceimg {
+    width: 10px;
+}
+

@@ -1,0 +1,26 @@
+Le diplôme que je compte décrocher est le BTS SIO (Services Informatiques aux Organisations) au Lycée Dampierre, à Valenciennes.
+Il y a deux options possibles : SISR (Solutions d'Infrastructure, Systèmes et Réseaux), SLAM (Solutions Logicielles et Applications Métiers). Pendant le premier semestre, à la 1ère année. Nous commençons avec des cours en commun (SISR et SLAM).
+
+Support système et réseau des accès utilisateurs.
+Exploitation des données.
+Bases de la programmation.
+Support des services et des serveurs.
+Développement d’applications.
+Intégration et adaptation d’un service.
+
+Une fois le semestre passé, c'est à partir de là qu'on choisit la spécialité. Une fois la spécialité choisie, le programme change pour tout le reste du BTS SIO. Voici le programme pour tout le reste du BTS SIO :
+
+SISR :
+Support système et réseau des accès utilisateurs.
+Exploitation des données.
+Bases de la programmation.
+Support des services et des serveurs.
+Développement d’applications.
+Intégration et adaptation d’un service.
+
+SLAM :
+Exploitation d’un schéma de données.
+Programmation objet.
+Conception et adaptation d’une base de données.
+Réalisation et maintenance de composants logiciels.
+Conception et adaptation de solutions logicielles.
